@@ -15,3 +15,5 @@ To reset the stopwatch to its initial state, the user can click the "Reset" butt
 The project utilizes HTML5, CSS3, and JavaScript to achieve the desired functionality. HTML is used to structure the elements of the stopwatch, including the time display and buttons. CSS3 is employed to style the stopwatch, ensuring an appealing visual appearance. JavaScript handles the logic behind the stopwatch, including time calculations, button functionalities, and updating the display in real-time.
 
 Overall, this stopwatch project provides a user-friendly interface for measuring elapsed time, making it suitable for various timing-related tasks or activities.
+
+link:- https://akhil-aditya.github.io/stopwatch_.github.com/
