@@ -1,0 +1,47 @@
+body {
+    background-color: #313336;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    color: #8e9192;
+}
+
+/* Styling the text. */
+.digit {
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt {
+    font-size: 50px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+/* Styling the buttons. */
+#btn-container {
+    text-align: center;
+    margin-top: 40px;
+}
+.btn {
+    padding: 7px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px 10px;
+    color: rgb(66, 27, 7);
+    border: 0px;
+    cursor: pointer;
+}
+
+#start {
+    background-color: #1abc9c;
+}
+#stop {
+    background-color:  yellow;
+}
+#reset {
+    background-color: #e74c3c;
+}
