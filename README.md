@@ -16,4 +16,5 @@ The project utilizes HTML5, CSS3, and JavaScript to achieve the desired function
 
 Overall, this stopwatch project provides a user-friendly interface for measuring elapsed time, making it suitable for various timing-related tasks or activities.
 
+[STOPWATCH_PROJECT DEMO.webm](https://github.com/Akhil-Aditya/stopwatch_.github.com/assets/81408364/c6e4c22e-f867-41a5-87cd-697294cb94b1)
 link:- https://akhil-aditya.github.io/stopwatch_.github.com/
